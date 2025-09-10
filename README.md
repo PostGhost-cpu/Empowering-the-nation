@@ -28,7 +28,8 @@ Responsive design and simple navigation
 * Desert sand _HEX `#e4c5af`_
 
 **Typography:** Clean, modern and easy-to-read fonts
-**Style:** Rounded buttons, hover animations and professional layouts\
+
+**Style:** Rounded buttons, hover animations and professional layouts
 
 ## Technical Requirements
 ### Mobile Application:
