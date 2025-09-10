@@ -20,7 +20,7 @@ Embedded YouTube videos and external news feeds
 Responsive design and simple navigation
 
 ## Brand Guidelines
-###Colour Palette:
+### Colour Palette:
 *Cadet blue (Crayola) _HEX `#9cbcc6`_
 *Queen blue _HEX `#406b8c`_
 *English red _HEX `#a4485e`_
