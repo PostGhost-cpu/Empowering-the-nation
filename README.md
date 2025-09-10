@@ -26,6 +26,7 @@ Responsive design and simple navigation
 * English red _HEX `#a4485e`_
 * Mandarin _HEX `#eb8445`_
 * Desert sand _HEX `#e4c5af`_
+
 **Typography:** Clean, modern and easy-to-read fonts
 **Style:** Rounded buttons, hover animations and professional layouts\
 
