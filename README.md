@@ -21,11 +21,11 @@ Responsive design and simple navigation
 
 ## Brand Guidelines
 ### Colour Palette:
-*Cadet blue (Crayola) _HEX `#9cbcc6`_
-*Queen blue _HEX `#406b8c`_
-*English red _HEX `#a4485e`_
-*Mandarin _HEX `#eb8445`_
-*Desert sand _HEX `#e4c5af`_
+* Cadet blue (Crayola) _HEX `#9cbcc6`_
+* Queen blue _HEX `#406b8c`_
+* English red _HEX `#a4485e`_
+* Mandarin _HEX `#eb8445`_
+* Desert sand _HEX `#e4c5af`_
 **Typography:** Clean, modern and easy-to-read fonts
 **Style:** Rounded buttons, hover animations and professional layouts\
 
